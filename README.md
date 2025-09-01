@@ -18,5 +18,6 @@ A simple web application that analyzes the strength of a password in **real time
 
 
 ## 📂 How to Run Locally  
-1. Clone the repository:  
-   https://github.com/yvonneaziz/password-strength-checker.git
+1. Go to Code
+Download ZIP
+Run index.htlm file in your browser
